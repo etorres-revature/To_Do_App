@@ -1,0 +1,23 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "To_Do_App",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etorres-revature/To_Do_App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etorres-revature/To_Do_App/issues"
+  },
+  "homepage": "https://github.com/etorres-revature/To_Do_App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
